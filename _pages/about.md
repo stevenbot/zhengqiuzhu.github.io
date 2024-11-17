@@ -78,6 +78,5 @@ Selected Publications (Since 2020)
 
 For more info
 ------
-More info about me can be found in my CV here [Zhengqiu's Curriculum Vitae](../files/cv_Zhengqiu_Zhu.pdf), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about me can be found in my CV here [Zhengqiu's Curriculum Vitae](../files/cv_Zhengqiu_Zhu.pdf), [Google Scholar](https://scholar.google.nl/citations?user=ExnFg3IAAAAJ&hl=en)). [Email](mailto:zhuzhengqiu12@nudt.edu.cn)
 
-Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). 
