@@ -18,14 +18,40 @@ News
 * 2023/09: Our work "Toward parallel intelligence: An interdisciplinary solution for complex systems" has been accepted as a review paper at [**The Innovation**](https://www.cell.com/the-innovation/fulltext/S2666-6758(23)00149-2).
 * Looking for post-docs & students to work on crowd computing, embodied intelligence, and LLM agents!
 
-Selected Publications
+Selected Publications (Since 2020)
 ------
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+* Conversational Crowdsensing in the Age of Industry 5.0: A Parallel Intelligence and Large Models Powered Novel Sensing Approach.
+  **Zhengqiu Zhu**, Yong Zhao, Sihang Qiu, Kai Xu, Quanjun Yin, Jincai Huang, Zhong Liu, Fei-Yue Wang.
+  IEEE Transactions on Computational Social Systems, 2024.
+* A Prototype Design of LLM-Based Autonomous Web Crowdsensing.
+  **Zhengqiu Zhu**, Yatai Ji, Sihang Qiu, Yong Zhao, Kai Xu, Rusheng Ju, Bin Chen.
+  ICWE 2024.
+* Towards Parallel Intelligence: An Interdisciplinary Solution for Complex Systems.
+  Yong Zhao, **Zhengqiu Zhu (Co-first)**, Bin Chen, Sihang Qiu, Jincai Huang, Xin Lu, Weiyi Yang, Chuan Ai, Kuihua Huang, Cheng He, Yucheng Jin, Zhong Liu, Fei-Yue Wang.
+  The Innovation, 2023.
+* Mobile Crowdsourcing: From Theory to Practice "Cost-Quality Aware Compressive Mobile Crowdsensing".
+  Yong Zhao, **Zhengqiu Zhu (Corresponding)**, Bin Chen.
+* A Crowd-Aided Vehicular Hybrid Sensing Framework for Intelligent Transportation Systems.
+  **Zhengqiu Zhu**, Yong Zhao, Bin Chen, Sihang Qiu, Zhong Liu, Kun Xie, Liang Ma.
+  IEEE Transactions on Intelligent Vehicles, 2023.
+* Crowdsensing Intelligence by Decentralized Autonomous Vehicles Organizations and Operations.
+  **Zhengqiu Zhu**, Xiao Wang, Yong Zhao, Sihang Qiu, Zhong Liu, Bin Chen, Fei-Yue Wang.
+  IEEE Transactions on Intelligent Vehicles, 2023.
+* Strategy Evaluation and Optimization with An Artificial Society toward A Pareto Optimum.
+  **Zhengqiu Zhu**, Bin Chen, Hailiang Chen, Sihang Qiu, Changjun Fan, Yong Zhao, Runkang Guo, Chuan Ai, Zhong Liu, Zhiming Zhao, Liqun Fang, Xin Lu.
+  The Innovation, 2022.
+* Understanding the necessity and economic benefits of lockdown measures to contain COVID-19.
+  **Zhengqiu Zhu**, Chuan Ai, Hailiang Chen, Bin Chen, Wei Duan, Xiaogang Qiu, Xin Lu, Ming He, Zhiming Zhao, Zhong Liu.
+  IEEE Transactions on Computational Social Systems, 2022.
+* A Deep Reinforcement Learning based Searching Method for Source Localization.
+  Yong Zhao, Bin Chen, XiangHan Wang, **Zhengqiu Zhu (Co-first)**, Yiduo Wang, Guangquan Cheng, Rui Wang, Rongxiao Wang, Ming He, Yu Liu.
+  Information Sciences, 2022.
+* Multi-sensing Paradigm based Urban Air Quality Monitoring and Hazardous Gas Source Analyzing: A Review
+  **Zhengqiu Zhu**, Bin Chen, Yong Zhao, Yatai Ji.
+  Journal of safety science and resilience, 2021.
+* A cost-quality beneficial cell selection approach for sparse mobile crowdsensing with diverse sensing costs
+  **Zhengqiu Zhu**, Bin Chen, Wenbin Liu, Yong Zhao, Zhong Liu, Zhiming Zhao.
+  IEEE Internet of Things Journal, 2020.
 
 Site-wide configuration
 ------
