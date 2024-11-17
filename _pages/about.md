@@ -20,7 +20,7 @@ News
 
 Selected Publications (Since 2020)
 ------
-* Conversational Crowdsensing in the Age of Industry 5.0: A Parallel Intelligence and Large Models Powered Novel Sensing Approach.
+* Conversational Crowdsensing in the Age of Industry 5.0: A Parallel Intelligence and Large Models Powered Novel Sensing Approach. //
   **Zhengqiu Zhu**, Yong Zhao, Sihang Qiu, Kai Xu, Quanjun Yin, Jincai Huang, Zhong Liu, Fei-Yue Wang.
   IEEE Transactions on Computational Social Systems, 2024.
 * A Prototype Design of LLM-Based Autonomous Web Crowdsensing.
@@ -46,10 +46,10 @@ Selected Publications (Since 2020)
 * A Deep Reinforcement Learning based Searching Method for Source Localization.
   Yong Zhao, Bin Chen, XiangHan Wang, **Zhengqiu Zhu (Co-first)**, Yiduo Wang, Guangquan Cheng, Rui Wang, Rongxiao Wang, Ming He, Yu Liu.
   Information Sciences, 2022.
-* Multi-sensing Paradigm based Urban Air Quality Monitoring and Hazardous Gas Source Analyzing: A Review
+* Multi-sensing Paradigm based Urban Air Quality Monitoring and Hazardous Gas Source Analyzing: A Review.
   **Zhengqiu Zhu**, Bin Chen, Yong Zhao, Yatai Ji.
   Journal of safety science and resilience, 2021.
-* A cost-quality beneficial cell selection approach for sparse mobile crowdsensing with diverse sensing costs
+* A Cost-Quality Beneficial Cell Selection Approach for Sparse Mobile Crowdsensing with Diverse Sensing Costs.
   **Zhengqiu Zhu**, Bin Chen, Wenbin Liu, Yong Zhao, Zhong Liu, Zhiming Zhao.
   IEEE Internet of Things Journal, 2020.
 
