@@ -12,10 +12,10 @@ Zhengqiu Zhu is an assistant professor at [College of Systems Engineering, Natio
 News
 ------
 * 2024/10: Our work "Conversational Crowdsensing in the Age of Industry 5.0: A Parallel Intelligence and Large Models Powered Novel Sensing Approach" has been accepted at [**IEEE TCSS**](https://ieeexplore.ieee.org/abstract/document/10717431).
-* 2024/09: Our work "Clutaxis: an information-driven source search method balancing exploration and exploitation in turbulent environments" has been accepted at [JSSR](https://www.sciencedirect.com/science/article/pii/S2666449624000653).
-* 2024/06: Our work "A Prototype Design of LLM-Based Autonomous Web Crowdsensing" has been accepted at [ICWE 2024](https://link.springer.com/chapter/10.1007/978-3-031-62362-2_34).
-* 2024/01: Our work "Autonomous crowdsensing: operating and organizing crowdsensing for sensing automation" has been accepted at [IEEE TIV](https://ieeexplore.ieee.org/abstract/document/10410218).
-* 2023/09: Our work "Toward parallel intelligence: An interdisciplinary solution for complex systems" has been accepted as a review paper at [The Innovation](https://www.cell.com/the-innovation/fulltext/S2666-6758(23)00149-2).
+* 2024/09: Our work "Clutaxis: an information-driven source search method balancing exploration and exploitation in turbulent environments" has been accepted at [**JSSR**](https://www.sciencedirect.com/science/article/pii/S2666449624000653).
+* 2024/06: Our work "A Prototype Design of LLM-Based Autonomous Web Crowdsensing" has been accepted at [**ICWE 2024**](https://link.springer.com/chapter/10.1007/978-3-031-62362-2_34).
+* 2024/01: Our work "Autonomous crowdsensing: operating and organizing crowdsensing for sensing automation" has been accepted at [**IEEE TIV**](https://ieeexplore.ieee.org/abstract/document/10410218).
+* 2023/09: Our work "Toward parallel intelligence: An interdisciplinary solution for complex systems" has been accepted as a review paper at [**The Innovation**](https://www.cell.com/the-innovation/fulltext/S2666-6758(23)00149-2).
 * Looking for post-docs & students to work on crowd computing, embodied intelligence, and LLM agents!
 
 Selected Publications
