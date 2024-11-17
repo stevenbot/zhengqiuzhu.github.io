@@ -11,17 +11,15 @@ Zhengqiu Zhu is an assistant professor at [College of Systems Engineering, Natio
 
 News
 ------
-<div style="font-weight: bold;">
-* 2024/10: Our work "Conversational Crowdsensing in the Age of Industry 5.0: A Parallel Intelligence and Large Models Powered Novel Sensing Approach" has been accepted at IEEE TCSS.
-</div>
+* 2024/10: Our work "Conversational Crowdsensing in the Age of Industry 5.0: A Parallel Intelligence and Large Models Powered Novel Sensing Approach" has been accepted at [IEEE TCSS](https://ieeexplore.ieee.org/abstract/document/10717431).
 * 2024/09: Our work "Clutaxis: an information-driven source search method balancing exploration and exploitation in turbulent environments" has been accepted at JSSR.
 * 2024/06: Our work "A Prototype Design of LLM-Based Autonomous Web Crowdsensing" has been accepted at ICWE 2024.
 * 2024/01: Our work "Autonomous crowdsensing: operating and organizing crowdsensing for sensing automation" has been accepted at IEEE TIV.
 * 2023/09: Our work "Toward parallel intelligence: An interdisciplinary solution for complex systems" has been accepted as a review paper at The Innovation.
 * Looking for post-docs & students to work on crowd computing, embodied intelligence, and LLM agents!
 
-Getting started
-======
+Selected Publications
+------
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
