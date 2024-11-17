@@ -11,7 +11,9 @@ Zhengqiu Zhu is an assistant professor at [College of Systems Engineering, Natio
 
 News
 ------
+<span style="font-weight: bold;">
 * 2024/10: Our work "Conversational Crowdsensing in the Age of Industry 5.0: A Parallel Intelligence and Large Models Powered Novel Sensing Approach" has been accepted at IEEE TCSS.
+</span>
 * 2024/09: Our work "Clutaxis: an information-driven source search method balancing exploration and exploitation in turbulent environments" has been accepted at JSSR.
 * 2024/06: Our work "A Prototype Design of LLM-Based Autonomous Web Crowdsensing" has been accepted at ICWE 2024.
 * 2024/01: Our work "Autonomous crowdsensing: operating and organizing crowdsensing for sensing automation" has been accepted at IEEE TIV.
