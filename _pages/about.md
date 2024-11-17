@@ -26,33 +26,54 @@ Selected Publications (Since 2020)
 
   IEEE Transactions on Computational Social Systems, 2024.
 * A Prototype Design of LLM-Based Autonomous Web Crowdsensing.
+
   **Zhengqiu Zhu**, Yatai Ji, Sihang Qiu, Yong Zhao, Kai Xu, Rusheng Ju, Bin Chen.
+
   ICWE 2024.
 * Towards Parallel Intelligence: An Interdisciplinary Solution for Complex Systems.
+
   Yong Zhao, **Zhengqiu Zhu (Co-first)**, Bin Chen, Sihang Qiu, Jincai Huang, Xin Lu, Weiyi Yang, Chuan Ai, Kuihua Huang, Cheng He, Yucheng Jin, Zhong Liu, Fei-Yue Wang.
+
   The Innovation, 2023.
 * Mobile Crowdsourcing: From Theory to Practice "Cost-Quality Aware Compressive Mobile Crowdsensing".
+
   Yong Zhao, **Zhengqiu Zhu (Corresponding)**, Bin Chen.
+
+  Springer Nature, 2023.
 * A Crowd-Aided Vehicular Hybrid Sensing Framework for Intelligent Transportation Systems.
+
   **Zhengqiu Zhu**, Yong Zhao, Bin Chen, Sihang Qiu, Zhong Liu, Kun Xie, Liang Ma.
+
   IEEE Transactions on Intelligent Vehicles, 2023.
 * Crowdsensing Intelligence by Decentralized Autonomous Vehicles Organizations and Operations.
+
   **Zhengqiu Zhu**, Xiao Wang, Yong Zhao, Sihang Qiu, Zhong Liu, Bin Chen, Fei-Yue Wang.
-  IEEE Transactions on Intelligent Vehicles, 2023.
+
+  IEEE Transactions on Intelligent Vehicles, 2022.
 * Strategy Evaluation and Optimization with An Artificial Society toward A Pareto Optimum.
+
   **Zhengqiu Zhu**, Bin Chen, Hailiang Chen, Sihang Qiu, Changjun Fan, Yong Zhao, Runkang Guo, Chuan Ai, Zhong Liu, Zhiming Zhao, Liqun Fang, Xin Lu.
+
   The Innovation, 2022.
 * Understanding the necessity and economic benefits of lockdown measures to contain COVID-19.
+
   **Zhengqiu Zhu**, Chuan Ai, Hailiang Chen, Bin Chen, Wei Duan, Xiaogang Qiu, Xin Lu, Ming He, Zhiming Zhao, Zhong Liu.
+
   IEEE Transactions on Computational Social Systems, 2022.
 * A Deep Reinforcement Learning based Searching Method for Source Localization.
+
   Yong Zhao, Bin Chen, XiangHan Wang, **Zhengqiu Zhu (Co-first)**, Yiduo Wang, Guangquan Cheng, Rui Wang, Rongxiao Wang, Ming He, Yu Liu.
+
   Information Sciences, 2022.
 * Multi-sensing Paradigm based Urban Air Quality Monitoring and Hazardous Gas Source Analyzing: A Review.
+
   **Zhengqiu Zhu**, Bin Chen, Yong Zhao, Yatai Ji.
+
   Journal of safety science and resilience, 2021.
 * A Cost-Quality Beneficial Cell Selection Approach for Sparse Mobile Crowdsensing with Diverse Sensing Costs.
+
   **Zhengqiu Zhu**, Bin Chen, Wenbin Liu, Yong Zhao, Zhong Liu, Zhiming Zhao.
+
   IEEE Internet of Things Journal, 2020.
 
 Site-wide configuration
