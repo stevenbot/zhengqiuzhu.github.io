@@ -78,5 +78,5 @@ Selected Publications (Since 2020)
 
 For more info
 ------
-More info about me can be found in my CV here [Zhengqiu's Curriculum Vitae](../files/cv_Zhengqiu_Zhu.pdf), [Google Scholar](https://scholar.google.nl/citations?user=ExnFg3IAAAAJ&hl=en)). [Email](mailto:zhuzhengqiu12@nudt.edu.cn)
+More info about me can be found in my CV here [Zhengqiu's Curriculum Vitae](https://github.com/stevenbot/zhengqiuzhu.github.io/blob/master/files/cv_Zhengqiu_Zhu.pdf), [Google Scholar](https://scholar.google.nl/citations?user=ExnFg3IAAAAJ&hl=en)). mailto:zhuzhengqiu12@nudt.edu.cn
 
