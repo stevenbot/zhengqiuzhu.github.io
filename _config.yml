@@ -20,12 +20,12 @@ repository               : "stevenbot/zhengqiuzhu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "zzq.png"
   name             : "Zhengqiu Zhu"
-  pronouns         : "he/his"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : # "he/his"  
+  bio              : "Assistant Professor"
   location         : "China"
-  employer         : "National University of Defense Technology"
+  employer         : "NUDT"
   uri              : # URL
   email            : "zhuzhengqiu12@nudt.edu.cn" 
 
