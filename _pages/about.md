@@ -78,5 +78,7 @@ Selected Publications (Since 2020)
 
 For more info
 ------
-More info about me can be found in my [CV](https://github.com/stevenbot/zhengqiuzhu.github.io/blob/master/files/cv_Zhengqiu_Zhu.pdf) and [Google Scholar](https://scholar.google.nl/citations?user=ExnFg3IAAAAJ&hl=en). Email: zhuzhengqiu12@nudt.edu.cn.
+More info about me can be found in my [CV](https://github.com/stevenbot/zhengqiuzhu.github.io/blob/master/files/cv_Zhengqiu_Zhu.pdf) and [Google Scholar](https://scholar.google.nl/citations?user=ExnFg3IAAAAJ&hl=en). 
+
+Contact me: email: zhuzhengqiu12@nudt.edu.cn; phone: +86 132-7241-1269
 
