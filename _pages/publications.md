@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+You can also find my articles on [my Google Scholar profile](https://scholar.google.nl/citations?user=ExnFg3IAAAAJ&hl=en&oi=ao)
 
 
 
